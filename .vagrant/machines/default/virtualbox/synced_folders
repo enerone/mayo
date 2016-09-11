@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/mayo":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/mayo","hostpath":"/home/enerone/mayo","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/enerone/mayo","disabled":false,"__vagrantfile":true}}}
